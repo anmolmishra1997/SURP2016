@@ -1,0 +1,4 @@
+HSV - Hue Saturation Value
+Matrices
+Convolution
+Thresholding - Absolute tresolding using Otsu's met

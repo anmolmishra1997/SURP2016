@@ -1,0 +1,6 @@
+596 - R2
+849 - 2R
+687 - R
+789 - Triangle
+720 - Square
+1070 - Control

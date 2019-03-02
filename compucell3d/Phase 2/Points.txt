@@ -1,0 +1,9 @@
+Points-
+1. A lot of S shaped curves are observed in number of cells before it starts oscillating
+2. Volume heterogeneity almost always starts decreasing after tend ( although in an oscillatory fashion) before it reaches equilibrium oscillations
+3. Surface heterogeneity shows a peculiar dependence after tend, it first increases then decreases
+4. Volume distribution, has the expected behaviour, distribution's mean shifts more and more left as time increases under constrained growth.
+5. Surface distribution does not show much change, the peak seems to be about the same point
+6. The free space decreases slowly eventually, but the rate increases as cell number increases which is expected
+7. In the removal of PDMS case, volume distribution for 2R circle is much more to the left, as compared to the other two.
+8. Although not possible to observe very clearly in phase 2 due to high MCS, between tend and tend + 100, rate of cell growth decreases
